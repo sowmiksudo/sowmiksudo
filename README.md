@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
-<div align="">
-  <div align="right">
-    <img src="https://profile-counter.glitch.me/%7Bign0r3dh4x0r%7D/count.svg">
-    <br />
-  </div>
-  
+<br />  
 <!--   <h3 align="">Hello World</h3>
   <p align="center">
     It's Shayer Mahmud Sowmik!
