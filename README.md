@@ -36,7 +36,7 @@ I am a software engineer based in Dhaka, building scalable web applications for 
 * Developed a complete home maintenance subscription platform for the Bangladeshi market.
 * **Tech:** React, Laravel, MySQL
 
-**2. [Automated Dropshipping Solution: Shein.com -> Malaysian Products]**
+**2. Automated Dropshipping Solution: Shein.com -> Malaysian Products**
 * *E-Commerce / Business Dashboard*
 * End to End automated Dropshipping website (including automatic order placement to the vendor without an official API [through RPA])
 * **Tech:** PHP, Laravel Events, Python RPA server,
