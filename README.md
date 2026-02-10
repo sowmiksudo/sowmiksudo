@@ -15,8 +15,8 @@ I am a software engineer based in Dhaka, building scalable web applications for 
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React.js, Next.js, Tailwind CSS, Flutter (Mobile) |
-| **Backend** | Node.js, Express, MongoDB, Firebase |
-| **DevOps** | Docker, Nginx, Linux Server Administration |
+| **Backend** | Node.js, Express, MongoDB, PHP, Laravel, Firebase |
+| **DevOps** | Docker, Nginx, AWS, Linux Server Administration |
 
 ### 🔬 Research Stack (Future Tech)
 *Exploring the edge of Data Science and Systems Engineering.*
@@ -24,7 +24,7 @@ I am a software engineer based in Dhaka, building scalable web applications for 
 | Area | Technologies |
 | :--- | :--- |
 | **Data Science** | Python, Pandas, NumPy, Scikit-Learn |
-| **Systems** | Android Internals, Frida (Instrumentation), Bash, TCP/IP Analysis |
+| **Systems** | Android Internals, Frida, Bash, TCP/IP Analysis |
 | **Tools** | Wireshark, Magisk, KernelSU |
 
 ---
