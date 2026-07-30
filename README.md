@@ -1,11 +1,46 @@
 # Hi, I'm Shayer Mahmud Sowmik 👋
 
 <p align="left">
-  <a href="https://github.com/sowmiksudo"><img src="https://img.shields.io/github/followers/sowmiksudo?label=Followers&style=for-the-badge&color=0d1117&logo=github" alt="GitHub Followers"></a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-emerald?style=for-the-badge" alt="Location">
+  <a href="https://github.com/sowmiksudo">
+    <img src="https://img.shields.io/github/stars/sowmiksudo?style=flat&color=blue&logo=github&label=Total%20Stars%20Count" alt="Repo Stars">
+    <span>  </span>
+    <img src="https://img.shields.io/github/followers/sowmiksudo?style=flat" alt="Repo Stars">
+    <img src="https://komarev.com/ghpvc/?username=sowmiksudo&base=1587323" alt="Profile View">
+    <img src="https://img.shields.io/github/created-at/sowmiksudo/xcp?style=flat" alt="Repo Stars">
+  </a>
 </p>
 
-**Data Science and Analytics** student at East West University. A *passionate programmer* building scalable web architectures while researching low-level system internals, hardware and edge AI integration.
+
+
+<p align="left">
+  <a href="https://github.com/sowmiksudo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&background=0D111700&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Systems+Researcher;Hardware+%26+Robotics+Integration;On-Device+Machine+Learning" alt="Typing Skills" />
+  </a>
+</p>
+
+
+**Data Science** student at East West University & Software Engineering Intern at Bot Engineers. Building scalable web architectures while researching low-level system internals, hardware integration, and edge AI.
+
+### 🔬 Low-Level Systems, Robotics & Hardware
+
+* **[WattWatch](https://github.com/sowmiksudo/wattwatch)** — Android ML battery drain predictor tracking low-level hardware states via XGBoost regressor.
+* **[NetGlance](https://github.com/sowmiksudo/netglance)** — Open-source Windows taskbar utility for real-time network speed and hardware telemetry.
+* **[Bambu Lab 3D Printer Gateway](https://github.com/sowmiksudo/BambuLab-P2S-Automation)** — Local FastAPI orchestration gateway interfacing with physical printers via FTPS & MQTT.
+* **[Songram M071](https://github.com/sowmiksudo/songram-m071)** — Digital defense system for digital Bangladesh that uses NFC-RFID technology and includes web dashboard.
+---
+
+### ⭐ Popular Repos & Security Research
+
+* **[GenVirus](https://github.com/sowmiksudo/GenVirus)** — Open-source security and reverse-engineering research repository.
+* **[Android-Traffic-Sniffer](https://github.com/sowmiksudo/android-tcp-sniffer)** — Python & Frida tool to intercept and analyze raw TCP packets from Android applications.
+
+---
+
+### 💻 Full Stack & Production Web
+
+* **[Shein Order Automation Engine](https://github.com/sowmiksudo/shein-order-automation)** — Automated e-commerce dropshipping pipeline utilizing a unified Laravel architecture and RPA hooks.
+* **[Failover Proxy SMS Gateway](https://github.com/sowmiksudo/sms-server)** - Automatic Failover - switch to the next api when the currently used one is failing threshold number.
+
 
 ### 🛠️ Core Tech Stack
 
@@ -38,26 +73,6 @@
 </p>
 
 ---
-
-### 🔬 Low-Level Systems, Robotics & Hardware
-
-* **[WattWatch](https://github.com/sowmiksudo/wattwatch)** — Android ML battery drain predictor tracking low-level hardware states via XGBoost regressor.
-* **[NetGlance](https://github.com/sowmiksudo/netglance)** — Open-source Windows taskbar utility for real-time network speed and hardware telemetry.
-* **[Bambu Lab 3D Printer Gateway](https://github.com/sowmiksudo/BambuLab-P2S-Automation)** — Local FastAPI orchestration gateway interfacing with physical printers via FTPS & MQTT.
-* **[Songram M071](https://github.com/sowmiksudo/songram-m071)** — Digital defense system for digital Bangladesh that uses NFC-RFID technology and includes web dashboard.
----
-
-### ⭐ Popular Repos & Security Research
-
-* **[GenVirus](https://github.com/sowmiksudo/GenVirus)** — Open-source security and reverse-engineering research repository.
-* **[Android-Traffic-Sniffer](https://github.com/sowmiksudo/android-tcp-sniffer)** — Python & Frida tool to intercept and analyze raw TCP packets from Android applications.
-
----
-
-### 💻 Full Stack & Production Web
-
-* **[Shein Order Automation Engine](https://github.com/sowmiksudo/shein-order-automation)** — Automated e-commerce dropshipping pipeline utilizing a unified Laravel architecture and RPA hooks.
-* **[Failover Proxy SMS Gateway](https://github.com/sowmiksudo/sms-server)** - Automatic Failover - switch to the next api when the currently used one is failing threshold number.
 
 ### 📊 GitHub Activity & Top Languages
 
