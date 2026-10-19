@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/stars/sowmiksudo?style=flat&color=blue&logo=github&label=Total%20Stars%20Count" alt="Repo Stars">
     <span>  </span>
     <img src="https://img.shields.io/github/followers/sowmiksudo?style=flat" alt="Repo Stars">
-    <img src="https://komarev.com/ghpvc/?username=sowmiksudo&base=1587323" alt="Profile View">
     <img src="https://img.shields.io/github/created-at/sowmiksudo/xcp?style=flat" alt="Repo Stars">
   </a>
 </p>
