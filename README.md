@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Shayer+Mahmud+Sowmik&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling&rotate=0&strokeWidth=0&desc=Embedded+Software+%C2%B7+Full-Stack+%C2%B7+DevOps+%C2%B7+Data+Science+%C2%B7+AI%2FML+Researcher&descSize=22&descAlign=50&descAlignY=58" width="100%" alt="Header" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sowmiksudo">
     <img src="https://img.shields.io/github/stars/sowmiksudo?style=flat&color=blue&logo=github&label=Total%20Stars%20Count" alt="Repo Stars">
     <span>  </span>
@@ -10,15 +10,6 @@
     <img src="https://img.shields.io/github/created-at/sowmiksudo/xcp?style=flat" alt="Repo Stars">
   </a>
 </p>
-
-
-
-<p align="left">
-  <a href="https://github.com/sowmiksudo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=58A6FF&background=0D111700&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Systems+Researcher;Hardware+%26+Robotics+Integration;On-Device+Machine+Learning" alt="Typing Skills" />
-  </a>
-</p>
-
 
 **Data Science** student at East West University & Software Engineering Intern at Bot Engineers. Building scalable web architectures while researching low-level system internals, hardware integration, and edge AI.
 
