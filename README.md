@@ -1,4 +1,6 @@
-# Hi, I'm Shayer Mahmud Sowmik 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Shayer+Mahmud+Sowmik&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling&rotate=0&strokeWidth=0&desc=Embedded+Software+%C2%B7+Full-Stack+%C2%B7+DevOps+%C2%B7+Data+Science+%C2%B7+AI%2FML+Researcher&descSize=22&descAlign=50&descAlignY=58" width="100%" alt="Header" />
+</p>
 
 <p align="left">
   <a href="https://github.com/sowmiksudo">
